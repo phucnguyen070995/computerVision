@@ -1,0 +1,17 @@
+Tuần 1:
+1. Chuyển ảnh thành ảnh có histogram mong muốn, tự code và dùng thư viện
+2. Chuyển ảnh thành ảnh có histogram từ 1 ảnh khác, tự code và dùng thư viện
+Tuần 2:
+1. Thực hiện phép conv cho ảnh bất kì
+Tuần 3:
+1. H = H1*H2*......Hn, so sánh cách tính 1 lần H và cách tính phân tích chập ra các tích chập con H1...Hn tính
+2. Tính box filtering, dùng interal array (mảng cộng dồn)
+Tuần 4:
+Silde 56.58 H(x,y) qua IFT (chương biến đổi trong miền tần số)
+Tuần 5:
+Chuyển 1 ảnh chụp xéo thành ảnh chuẩn (mô phỏng ứng dụng scan tài liệu)
+Tuần 6: Hough Transform
+Dùng Canny nhận diện cạnh
+Ráp vào voting matrix để xem ô nào có voting cao nhất thì điểm đó là cạnh
+Tuần 7:
+
